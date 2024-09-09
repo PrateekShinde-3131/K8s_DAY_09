@@ -17,10 +17,7 @@ spec:
   type: ClusterIP
   ```
 
-Here is a README.md file with the content you requested:
 
-markdown
-Copy code
 # Kubernetes Service and Deployment Example
 
 This document provides instructions to create a Service and Deployment in Kubernetes, scale the deployment, and test it inside and outside the cluster.
